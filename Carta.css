@@ -1,0 +1,40 @@
+body {
+    font-family: 'georgia', sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: rgb(109, 99, 99);
+    font-style: 'arial', sans-serif;
+    font-size: 14px;
+    line-height: 0.3;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+    font-size: 32px;
+    line-height: 0.3;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+img {
+    width: 40%;
+    height: auto;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+h2 {
+    color: rgb(34, 33, 33);
+    font-style: italic;
+    font-size: 12px;
+    line-height: 0;
+}
